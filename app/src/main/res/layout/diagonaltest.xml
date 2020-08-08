@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.florent37.diagonallayout.DiagonalLayout android:layout_width="match_parent"
+    android:layout_height="250dp"
+    xmlns:diagonal="http://schemas.android.com/apk/res-auto"
+
+    diagonal:diagonal_angle="10"
+    diagonal:diagonal_position="top"
+    diagonal:diagonal_direction="right"
+    android:elevation="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimaryDark">
+
+
+</com.github.florent37.diagonallayout.DiagonalLayout>
